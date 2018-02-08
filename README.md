@@ -1,2 +1,2 @@
 # spacex
-hello suphia are you ready for the interview
+hello sophia are you ready for the interview
